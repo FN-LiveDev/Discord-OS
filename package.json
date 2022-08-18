@@ -1,0 +1,48 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "The Discord bot for FN.Live",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FN-LiveDev/Discord.git"
+  },
+  "author": "Enderman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FN-LiveDev/Discord/issues"
+  },
+  "homepage": "https://github.com/FN-LiveDev/Discord#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.11.0",
+    "axios": "^0.21.1",
+    "common-tags": "^1.8.0",
+    "config": "^3.3.6",
+    "dblapi.js": "^2.4.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "edit-json-file": "^1.6.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^5.0.2",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "mal-scraper": "^2.11.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.0.4",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.4.3",
+    "node-osu": "^2.2.1",
+    "os": "^0.1.2",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "urban.js": "^2.4.3",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  }
+}
